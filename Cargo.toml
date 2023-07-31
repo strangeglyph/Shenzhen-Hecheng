@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 rlua = { version = "0.19", features = ["lua-no-oslib"] }
+anyhow = "*"

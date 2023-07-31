@@ -1,7 +1,7 @@
 -- The function get_name() should return a single string that is the name of the puzzle.
 --
 function get_name()
-    return "NEW SPECIFICATION"
+    return "const"
 end
 
 -- The function get_description() should return an array of strings, where each string is
